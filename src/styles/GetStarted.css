@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Garamond&display=swap');
+ 
+body {
+  font-family: 'Garamond', serif;
+}
+ 
+.get-started-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0; 
+  text-align: center;
+  animation: fadeIn 1.5s ease-in-out;
+  font-family: 'Garamond', serif;
+}
+ 
+.get-started-title {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #333;
+  animation: popUp 1s ease-in-out;
+
+}
+ 
+.get-started-description {
+  font-size: 24px;
+  margin-bottom: 40px;
+  color: #666;
+  max-width: 600px;
+  animation: slideInUp 1s ease-in-out;
+}
+ 
+.get-started-button {
+  background-color: #d3b692; 
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  animation: bounceIn 1s ease-in-out;
+  font-family: 'Garamond', serif;
+}
+ 
+.get-started-button:hover {
+  background-color: #b8946c; 
+  transform: scale(1.05);
+}
+ 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+ 
+@keyframes popUp {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+ 
+@keyframes slideInUp {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+ 
+@keyframes bounceIn {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+ 

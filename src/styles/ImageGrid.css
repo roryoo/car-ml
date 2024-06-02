@@ -1,0 +1,45 @@
+.my-masonry-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Ensures items align from the start */
+    margin: 20px auto; /* Centers the grid and provides vertical margin */
+    max-width: 60%; /* Adjust this to control the grid width */
+    padding: 0; /* Ensures no extra padding is affecting the width */
+    box-sizing: border-box; /* Includes padding and border in the element's width */
+}
+ 
+.item {
+    flex: 0 0 32%; /* Each item takes exactly 32% of the grid container */
+    margin-bottom: 0; /* No space between rows */
+    margin-right: 0; /* No space between items horizontally */
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+ 
+.item img {
+    width: 100%;
+    height: auto; /* Adjust height automatically to maintain aspect ratio */
+    object-fit: cover; /* Ensure image covers the item area */
+    transition: transform 0.3s ease, filter 0.3s ease;
+    filter: brightness(50%); /* Initially darker */
+}
+ 
+.item:hover img {
+    transform: scale(1.1);
+    filter: brightness(100%); /* Brighten image on hover */
+}
+ 
+.item span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center text exactly */
+    color: white;
+    padding: 6px;
+    font-size: 17px;
+    text-align: center;
+    width: 90%; /* Text width slightly less than item width */
+    font-family: 'Garamond', serif;
+}

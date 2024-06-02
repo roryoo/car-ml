@@ -1,0 +1,89 @@
+.parent-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align items at the start */
+  align-items: center; /* Center items horizontally */
+  padding-top: 100px; /* Adds more space at the top */
+  background: #f9f9f9; /* Light background color */
+  min-height: 100vh; /* Ensures the parent container takes the full height of the viewport */
+  font-family: 'Garamond', serif; /* Apply Garamond font to the entire parent container */
+}
+
+.faq-container {
+  max-width: 700px;
+  width: 100%;
+  margin: 30px auto;
+  padding: 30px;
+  background: #ffffff;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  font-family: 'Garamond', serif; /* Ensure the font family is applied here as well */
+}
+
+.faq-item {
+  margin-top: 10px;
+  padding: 10px;
+  background: #f9f9f9;
+  border-bottom: 1px solid #ddd; /* Remove border radius and add bottom border */
+  transition: background-color 0.3s ease;
+}
+
+.faq-item:first-child {
+  margin-top: 0;
+}
+
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 10px 0; /* Add padding for better spacing */
+  border-bottom: 1px solid #ddd; /* Add bottom border */
+}
+
+.faq-question i {
+  border: solid black;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  transition: transform 0.3s ease;
+}
+
+.arrow.down {
+  transform: rotate(45deg);
+}
+
+.arrow.up {
+  transform: rotate(-135deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+  padding: 0 20px;
+}
+
+.faq-answer.show {
+  max-height: 1000px; /* Large enough to fit content */
+  padding-top: 10px;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: left; /* Align text to the left */
+  color: #333; /* Darker color for the heading */
+}
+
+.product-info {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: left; /* Align text to the left */
+  color: #d4af37; /* Gold color for the product info */
+}

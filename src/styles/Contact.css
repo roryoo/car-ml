@@ -1,0 +1,266 @@
+.contact-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 60px 20px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #f9f9f9;
+  min-height: 100vh;
+  margin-top: 60px;
+}
+
+.contact-form-section, .contact-info-section {
+  flex: 1;
+  max-width: 45%;
+  background: linear-gradient(to right, #ffffff, #e6e9f0);
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  margin-top: 30px;
+}
+
+.contact-form-section h1, .contact-info-section h1 {
+  font-size: 26px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-form-section .lead-text, .contact-info-section .lead-text {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 25px;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background-color: #f8f8f8;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.form-group textarea {
+  resize: vertical;
+  height: 120px;
+}
+
+.submit-btn {
+  padding: 12px 20px;
+  background-color: #c2a173;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #b29264;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.info-item svg {
+  margin-right: 10px;
+  color: #c2a173;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social-icon {
+  display: inline-block;
+  padding: 10px;
+  color: black;
+  transition: color 0.3s;
+}
+
+.social-icon:hover {
+  color: black;
+}
+
+.support-helper-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.contact-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 60px 20px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #f9f9f9;
+  min-height: 100vh;
+  margin-top: 60px;
+}
+
+.contact-form-section, .contact-info-section {
+  flex: 1;
+  max-width: 45%;
+  background: linear-gradient(to right, #ffffff, #e6e9f0);
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  margin-top: 30px;
+}
+
+.contact-form-section h1, .contact-info-section h1 {
+  font-size: 26px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-form-section .lead-text, .contact-info-section .lead-text {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 25px;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background-color: #f8f8f8;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.form-group textarea {
+  resize: vertical;
+  height: 120px;
+}
+
+.submit-btn {
+  padding: 12px 20px;
+  background-color: #c2a173;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #b29264;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.info-item svg {
+  margin-right: 10px;
+  color: #c2a173;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social-icon {
+  display: inline-block;
+  padding: 10px;
+  color: black;
+  transition: color 0.3s;
+}
+
+.social-icon:hover {
+  color: black;
+}
+
+.support-helper-image {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.lottie-container {
+  position: absolute;  /* Change this as needed, could be 'absolute' depending on your layout */
+  top: 0;  /* Adjust these values to position the animation within a specific part of the screen */
+  left: 0;
+  width: 100%;  /* Adjust width and height as needed */
+  height: 100%;
+}
+
+.lottie-container lottie-player {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .contact-page {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-form-section, .contact-info-section {
+    max-width: 90%;
+  }
+}
+
+
+
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .contact-page {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-form-section, .contact-info-section {
+    max-width: 90%;
+  }
+}

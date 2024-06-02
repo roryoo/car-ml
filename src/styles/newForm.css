@@ -1,0 +1,126 @@
+/* General spacing and layout for the header and form areas */
+.header-space {
+    height: 50px; /* Adjust according to your layout needs */
+  }
+  
+  /* Styles for car type selection boxes */
+  .car-box-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Space between rows */
+  }
+  
+  .car-box {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .car-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+  }
+  
+  #car-selection {
+    padding-top: 70px; /* Adjust if needed */
+  }
+  
+  /* Enhanced form container styling */
+  #form-car-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+  }
+  
+  .form-container {
+    max-width: 500px;
+    background: linear-gradient(145deg, #ffffff, #f0f0f0);
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    padding: 30px;
+    margin: auto;
+  }
+  
+  .form-container h1 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Layout for form rows */
+  .form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .form-row .form-group {
+    width: 48%; /* Slightly less than half to fit margin */
+  }
+  
+  /* Input and label styling within the form */
+  .form-container label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .form-container input[type="text"],
+  .form-container input[type="number"],
+  .form-container select {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: #f8f8f8;
+    border-radius: 6px;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.08);
+  }
+  
+  /* Button specific styling */
+  .form-container button {
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .form-container button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .car-box-row {
+      flex-direction: column;
+    }
+  
+    .car-box {
+      width: 90%; /* Full width in smaller screens */
+    }
+  
+    #form-car-container {
+      flex-direction: column;
+    }
+  
+    .form-row {
+      flex-direction: column;
+    }
+  
+    .form-row .form-group {
+      width: 100%;
+    }
+  }
+  

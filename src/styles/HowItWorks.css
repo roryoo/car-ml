@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 16px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  font-family: 'Garamond', serif; /* Apply the font family to the entire container */
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Garamond', serif; /* Apply the font family to the header */
+}
+
+.card {
+  flex: 1 1 300px; /* Adjusts the base width to 300px and allows boxes to grow */
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 200px; /* Fixed height for all cards */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Garamond', serif; /* Apply the font family to the card */
+}
+
+.card:hover {
+  transform: translateY(-10px); /* Move the card up */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Add a deeper shadow */
+}
+
+.card h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  font-family: 'Garamond', serif; /* Apply the font family to the h3 element */
+}
+
+.card p {
+  font-size: 1em;
+  font-family: 'Garamond', serif; /* Apply the font family to the p element */
+}
+

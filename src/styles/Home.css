@@ -1,0 +1,49 @@
+
+.video-container {
+  position: relative;
+  width: 100%; /* Full width */
+  height: 100vh; /* Full viewport height */
+  overflow: hidden;
+}
+
+.background-video {
+  width: 100%; /* Cover the full width of the container */
+  height: 100%; /* Cover the full height of the container */
+  object-fit: cover; /* Preserve aspect ratio while filling the entire element */
+}
+
+
+.content h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.content h3 {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.discoverButton, .arrowButton {
+  background-color: #ff4081; /* Secondary color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.discoverButton:hover, .arrowButton:hover {
+  background-color: #f50057; /* Darker shade for hover effect */
+}
+
+.content p {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.arrowButton {
+  font-size: 2rem;
+  padding: 5px 10px;
+}

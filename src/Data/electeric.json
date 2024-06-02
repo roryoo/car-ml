@@ -1,0 +1,3602 @@
+[
+ {
+  "Battery": 75,
+  "Car_name": "Tesla Model Y Long Range Dual Motor",
+  "Efficiency": 172,
+  "Fast_charge": 670,
+  "Range": 435,
+  "Top_speed": 217,
+  "acceleration..0.100.": 5,
+  "Price.USD": "$64,328.53"
+ },
+ {
+  "Battery": 57.5,
+  "Car_name": "Tesla Model 3",
+  "Efficiency": 137,
+  "Fast_charge": 700,
+  "Range": 420,
+  "Top_speed": 201,
+  "acceleration..0.100.": 6.1,
+  "Price.USD": "$50,379.80"
+ },
+ {
+  "Battery": 60.5,
+  "Car_name": "BYD ATTO 3",
+  "Efficiency": 183,
+  "Fast_charge": 370,
+  "Range": 330,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$48,641.25"
+ },
+ {
+  "Battery": 61.7,
+  "Car_name": "MG MG4 Electric 64 kWh",
+  "Efficiency": 171,
+  "Fast_charge": 630,
+  "Range": 360,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$43,589.10"
+ },
+ {
+  "Battery": 75,
+  "Car_name": "Tesla Model 3 Long Range Dual Motor",
+  "Efficiency": 149,
+  "Fast_charge": 780,
+  "Range": 505,
+  "Top_speed": 201,
+  "acceleration..0.100.": 4.4,
+  "Price.USD": "$60,189.80"
+ },
+ {
+  "Battery": 57.5,
+  "Car_name": "Tesla Model Y",
+  "Efficiency": 164,
+  "Fast_charge": 580,
+  "Range": 350,
+  "Top_speed": 217,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$51,848.03"
+ },
+ {
+  "Battery": 71,
+  "Car_name": "BMW iX xDrive40",
+  "Efficiency": 197,
+  "Fast_charge": 480,
+  "Range": 360,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.1,
+  "Price.USD": "$84,257.00"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Volvo EX30 Single Motor ER",
+  "Efficiency": 173,
+  "Fast_charge": 550,
+  "Range": 370,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.3,
+  "Price.USD": "$45,551.10"
+ },
+ {
+  "Battery": 44,
+  "Car_name": "Citroen e-C3",
+  "Efficiency": 176,
+  "Fast_charge": 320,
+  "Range": 250,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11,
+  "Price.USD": "$25,397.00"
+ },
+ {
+  "Battery": 82.5,
+  "Car_name": "BYD SEAL 82.5 kWh AWD Excellence",
+  "Efficiency": 170,
+  "Fast_charge": 530,
+  "Range": 485,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$58,498.12"
+ },
+ {
+  "Battery": 80.7,
+  "Car_name": "BMW i4 eDrive40",
+  "Efficiency": 157,
+  "Fast_charge": 800,
+  "Range": 515,
+  "Top_speed": 190,
+  "acceleration..0.100.": 5.7,
+  "Price.USD": "$64,528.00"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Renault Megane E-Tech EV60 220hp",
+  "Efficiency": 158,
+  "Fast_charge": 530,
+  "Range": 380,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.4,
+  "Price.USD": "$50,794.00"
+ },
+ {
+  "Battery": 64.7,
+  "Car_name": "BMW iX1 xDrive30",
+  "Efficiency": 170,
+  "Fast_charge": 550,
+  "Range": 380,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$59,950.00"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Hyundai Kona Electric 64 kWh",
+  "Efficiency": 164,
+  "Fast_charge": 370,
+  "Range": 390,
+  "Top_speed": 167,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$46,761.00"
+ },
+ {
+  "Battery": 75,
+  "Car_name": "Tesla Model Y Performance",
+  "Efficiency": 181,
+  "Fast_charge": 640,
+  "Range": 415,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$69,397.03"
+ },
+ {
+  "Battery": 64.8,
+  "Car_name": "Kia Niro EV",
+  "Efficiency": 168,
+  "Fast_charge": 390,
+  "Range": 385,
+  "Top_speed": 167,
+  "acceleration..0.100.": 7.8,
+  "Price.USD": "$49,802.10"
+ },
+ {
+  "Battery": 100,
+  "Car_name": "Rolls-Royce Spectre",
+  "Efficiency": 220,
+  "Fast_charge": 540,
+  "Range": 455,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 95,
+  "Car_name": "Tesla Model S Plaid",
+  "Efficiency": 170,
+  "Fast_charge": 780,
+  "Range": 560,
+  "Top_speed": 282,
+  "acceleration..0.100.": 2.1,
+  "Price.USD": "$120,957.30"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "BMW iX3",
+  "Efficiency": 192,
+  "Fast_charge": 520,
+  "Range": 385,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.8,
+  "Price.USD": "$73,357.00"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "Hongqi E-HS9 99 kWh",
+  "Efficiency": 243,
+  "Fast_charge": 430,
+  "Range": 370,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 37.3,
+  "Car_name": "Fiat 500e Hatchback 42 kWh",
+  "Efficiency": 159,
+  "Fast_charge": 390,
+  "Range": 235,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$38,139.10"
+ },
+ {
+  "Battery": 85.4,
+  "Car_name": "BYD HAN",
+  "Efficiency": 180,
+  "Fast_charge": 450,
+  "Range": 475,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$77,177.45"
+ },
+ {
+  "Battery": 95,
+  "Car_name": "Tesla Model S Dual Motor",
+  "Efficiency": 165,
+  "Fast_charge": 800,
+  "Range": 575,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.2,
+  "Price.USD": "$104,607.30"
+ },
+ {
+  "Battery": 60.5,
+  "Car_name": "BYD DOLPHIN 60.4 kWh",
+  "Efficiency": 178,
+  "Fast_charge": 340,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$39,229.10"
+ },
+ {
+  "Battery": 58,
+  "Car_name": "CUPRA Born 150 kW - 58 kWh",
+  "Efficiency": 166,
+  "Fast_charge": 470,
+  "Range": 350,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$42,913.30"
+ },
+ {
+  "Battery": 25,
+  "Car_name": "Dacia Spring Electric 45",
+  "Efficiency": 152,
+  "Fast_charge": 180,
+  "Range": 165,
+  "Top_speed": 125,
+  "acceleration..0.100.": 19.1,
+  "Price.USD": "$24,579.50"
+ },
+ {
+  "Battery": 81.2,
+  "Car_name": "BMW i5 eDrive40 Sedan",
+  "Efficiency": 171,
+  "Fast_charge": 710,
+  "Range": 475,
+  "Top_speed": 193,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$76,518.00"
+ },
+ {
+  "Battery": 80.7,
+  "Car_name": "BMW i4 M50",
+  "Efficiency": 179,
+  "Fast_charge": 700,
+  "Range": 450,
+  "Top_speed": 225,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$77,172.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Opel Astra Electric",
+  "Efficiency": 167,
+  "Fast_charge": 490,
+  "Range": 305,
+  "Top_speed": 170,
+  "acceleration..0.100.": 9.2,
+  "Price.USD": "$45,769.10"
+ },
+ {
+  "Battery": 68.3,
+  "Car_name": "MG ZS EV Long Range",
+  "Efficiency": 185,
+  "Fast_charge": 420,
+  "Range": 370,
+  "Top_speed": 175,
+  "acceleration..0.100.": 8.4,
+  "Price.USD": "$41,409.10"
+ },
+ {
+  "Battery": 76.6,
+  "Car_name": "Audi Q4 e-tron 40",
+  "Efficiency": 189,
+  "Fast_charge": 630,
+  "Range": 405,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.5,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 101.7,
+  "Car_name": "BMW i7 xDrive60",
+  "Efficiency": 199,
+  "Fast_charge": 760,
+  "Range": 510,
+  "Top_speed": 240,
+  "acceleration..0.100.": 4.7,
+  "Price.USD": "$152,491.00"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Toyota bZ4X FWD",
+  "Efficiency": 188,
+  "Fast_charge": 510,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.5,
+  "Price.USD": "$51,764.10"
+ },
+ {
+  "Battery": 49,
+  "Car_name": "Volvo EX30 Single Motor",
+  "Efficiency": 175,
+  "Fast_charge": 430,
+  "Range": 280,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.7,
+  "Price.USD": "$39,883.10"
+ },
+ {
+  "Battery": 62,
+  "Car_name": "Smart #1",
+  "Efficiency": 185,
+  "Fast_charge": 520,
+  "Range": 335,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$46,314.10"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Kia EV6 Long Range 2WD",
+  "Efficiency": 180,
+  "Fast_charge": 1070,
+  "Range": 410,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$56,669.10"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.7 Pro",
+  "Efficiency": 162,
+  "Fast_charge": 710,
+  "Range": 475,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.5,
+  "Price.USD": "$62,124.55"
+ },
+ {
+  "Battery": 105.2,
+  "Car_name": "BMW iX xDrive50",
+  "Efficiency": 208,
+  "Fast_charge": 680,
+  "Range": 505,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.6,
+  "Price.USD": "$109,109.00"
+ },
+ {
+  "Battery": 106,
+  "Car_name": "Audi Q8 e-tron 55 quattro",
+  "Efficiency": 210,
+  "Fast_charge": 640,
+  "Range": 505,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$92,977.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "MG MG4 Electric 51 kWh",
+  "Efficiency": 169,
+  "Fast_charge": 390,
+  "Range": 300,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.7,
+  "Price.USD": "$38,139.10"
+ },
+ {
+  "Battery": 73,
+  "Car_name": "Peugeot e-3008 73 kWh",
+  "Efficiency": 183,
+  "Fast_charge": 460,
+  "Range": 400,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 82.5,
+  "Car_name": "BYD SEAL 82.5 kWh RWD Design",
+  "Efficiency": 165,
+  "Fast_charge": 550,
+  "Range": 500,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.9,
+  "Price.USD": "$51,860.02"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq 85",
+  "Efficiency": 169,
+  "Fast_charge": 680,
+  "Range": 455,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$53,301.00"
+ },
+ {
+  "Battery": 65.4,
+  "Car_name": "Hyundai Kona Electric 65 kWh",
+  "Efficiency": 168,
+  "Fast_charge": 400,
+  "Range": 390,
+  "Top_speed": 170,
+  "acceleration..0.100.": 8.8,
+  "Price.USD": "$51,437.10"
+ },
+ {
+  "Battery": 58,
+  "Car_name": "Volkswagen ID.3 Pro",
+  "Efficiency": 166,
+  "Fast_charge": 450,
+  "Range": 350,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$43,594.55"
+ },
+ {
+  "Battery": 52,
+  "Car_name": "Renault Zoe ZE50 R110",
+  "Efficiency": 165,
+  "Fast_charge": 230,
+  "Range": 315,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.4,
+  "Price.USD": "$40,155.60"
+ },
+ {
+  "Battery": 96,
+  "Car_name": "Kia EV9 99.8 kWh AWD",
+  "Efficiency": 226,
+  "Fast_charge": 740,
+  "Range": 425,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$83,374.10"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-208",
+  "Efficiency": 162,
+  "Fast_charge": 460,
+  "Range": 285,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.1,
+  "Price.USD": "$42,619.00"
+ },
+ {
+  "Battery": 85,
+  "Car_name": "Audi e-tron GT RS",
+  "Efficiency": 210,
+  "Fast_charge": 1000,
+  "Range": 405,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.3,
+  "Price.USD": "$159,194.50"
+ },
+ {
+  "Battery": 21.3,
+  "Car_name": "Renault Twingo Electric",
+  "Efficiency": 158,
+  "Fast_charge": "NA",
+  "Range": 135,
+  "Top_speed": 135,
+  "acceleration..0.100.": 12.6,
+  "Price.USD": "$30,520.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "CUPRA Born 170 kW - 77 kWh",
+  "Efficiency": 171,
+  "Fast_charge": 630,
+  "Range": 450,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$50,630.50"
+ },
+ {
+  "Battery": 86.4,
+  "Car_name": "BYD TANG",
+  "Efficiency": 240,
+  "Fast_charge": 330,
+  "Range": 360,
+  "Top_speed": 180,
+  "acceleration..0.100.": 4.6,
+  "Price.USD": "$77,826.00"
+ },
+ {
+  "Battery": 28.9,
+  "Car_name": "Mini Cooper SE",
+  "Efficiency": 161,
+  "Fast_charge": 260,
+  "Range": 180,
+  "Top_speed": 150,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$38,913.00"
+ },
+ {
+  "Battery": 67,
+  "Car_name": "BMW i4 eDrive35",
+  "Efficiency": 156,
+  "Fast_charge": 580,
+  "Range": 430,
+  "Top_speed": 190,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$61,585.00"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Hyundai IONIQ 6 Long Range AWD",
+  "Efficiency": 168,
+  "Fast_charge": 1150,
+  "Range": 440,
+  "Top_speed": 185,
+  "acceleration..0.100.": 5.1,
+  "Price.USD": "$66,599.00"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Kia EV6 GT",
+  "Efficiency": 206,
+  "Fast_charge": 940,
+  "Range": 360,
+  "Top_speed": 260,
+  "acceleration..0.100.": 3.5,
+  "Price.USD": "$79,559.10"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Hyundai IONIQ 6 Long Range 2WD",
+  "Efficiency": 149,
+  "Fast_charge": 1290,
+  "Range": 495,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.4,
+  "Price.USD": "$58,860.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Jeep Avenger Electric",
+  "Efficiency": 164,
+  "Fast_charge": 500,
+  "Range": 310,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$40,330.00"
+ },
+ {
+  "Battery": 87,
+  "Car_name": "Nissan Ariya 87kWh",
+  "Efficiency": 193,
+  "Fast_charge": 540,
+  "Range": 450,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.6,
+  "Price.USD": "$64,299.10"
+ },
+ {
+  "Battery": 39,
+  "Car_name": "Nissan Leaf",
+  "Efficiency": 166,
+  "Fast_charge": 230,
+  "Range": 235,
+  "Top_speed": 144,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$36,406.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID. Buzz Pro",
+  "Efficiency": 223,
+  "Fast_charge": 480,
+  "Range": 345,
+  "Top_speed": 145,
+  "acceleration..0.100.": 10.2,
+  "Price.USD": "$70,393.29"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "Mercedes EQA 250+",
+  "Efficiency": 168,
+  "Fast_charge": 580,
+  "Range": 420,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.4 Pro",
+  "Efficiency": 177,
+  "Fast_charge": 650,
+  "Range": 435,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$50,505.15"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Corsa-e",
+  "Efficiency": 157,
+  "Fast_charge": 470,
+  "Range": 295,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 94,
+  "Car_name": "Zeekr 001 Performance AWD",
+  "Efficiency": 186,
+  "Fast_charge": 700,
+  "Range": 505,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$69,727.30"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-C4",
+  "Efficiency": 160,
+  "Fast_charge": 460,
+  "Range": 290,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9.7,
+  "Price.USD": "$39,283.60"
+ },
+ {
+  "Battery": 94,
+  "Car_name": "Polestar 4 Long Range Dual Motor",
+  "Efficiency": 202,
+  "Fast_charge": 690,
+  "Range": 465,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 118,
+  "Car_name": "Lucid Air Dream Edition R",
+  "Efficiency": 172,
+  "Fast_charge": 870,
+  "Range": 685,
+  "Top_speed": 270,
+  "acceleration..0.100.": 2.9,
+  "Price.USD": "$237,620.00"
+ },
+ {
+  "Battery": 74.4,
+  "Car_name": "MG MG4 Electric 77 kWh",
+  "Efficiency": 175,
+  "Fast_charge": 430,
+  "Range": 425,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.5,
+  "Price.USD": "$50,129.10"
+ },
+ {
+  "Battery": 98,
+  "Car_name": "Peugeot e-3008 98 kWh Long Range",
+  "Efficiency": 188,
+  "Fast_charge": 680,
+  "Range": 520,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 80,
+  "Car_name": "Hyundai IONIQ 5 N",
+  "Efficiency": 208,
+  "Fast_charge": 950,
+  "Range": 385,
+  "Top_speed": 260,
+  "acceleration..0.100.": 3.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Hyundai IONIQ 5 Long Range 2WD",
+  "Efficiency": 190,
+  "Fast_charge": 1020,
+  "Range": 390,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$52,211.00"
+ },
+ {
+  "Battery": 57.5,
+  "Car_name": "Tesla Model Y",
+  "Efficiency": 164,
+  "Fast_charge": 810,
+  "Range": 350,
+  "Top_speed": 217,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$51,848.03"
+ },
+ {
+  "Battery": 61.9,
+  "Car_name": "Honda e:Ny1",
+  "Efficiency": 185,
+  "Fast_charge": 300,
+  "Range": 335,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.6,
+  "Price.USD": "$51,873.10"
+ },
+ {
+  "Battery": 44.9,
+  "Car_name": "BYD DOLPHIN 44.9 kWh Active",
+  "Efficiency": 176,
+  "Fast_charge": 260,
+  "Range": 255,
+  "Top_speed": 150,
+  "acceleration..0.100.": 10,
+  "Price.USD": "$32,689.10"
+ },
+ {
+  "Battery": 109,
+  "Car_name": "Lotus Eletre",
+  "Efficiency": 220,
+  "Fast_charge": 1040,
+  "Range": 495,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$104,629.10"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Polestar 2 Long Range Single Motor",
+  "Efficiency": 168,
+  "Fast_charge": 700,
+  "Range": 470,
+  "Top_speed": 205,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "$59,377.75"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Volvo EX30 Twin Motor Performance",
+  "Efficiency": 178,
+  "Fast_charge": 540,
+  "Range": 360,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.6,
+  "Price.USD": "$52,854.10"
+ },
+ {
+  "Battery": 64.7,
+  "Car_name": "BMW iX1 eDrive20",
+  "Efficiency": 166,
+  "Fast_charge": 560,
+  "Range": 390,
+  "Top_speed": 170,
+  "acceleration..0.100.": 8.3,
+  "Price.USD": "$52,211.00"
+ },
+ {
+  "Battery": 54,
+  "Car_name": "Hyundai IONIQ 6 Standard Range 2WD",
+  "Efficiency": 148,
+  "Fast_charge": 900,
+  "Range": 365,
+  "Top_speed": 185,
+  "acceleration..0.100.": 8.8,
+  "Price.USD": "$47,851.00"
+ },
+ {
+  "Battery": 86,
+  "Car_name": "Volkswagen ID.7 Pro S",
+  "Efficiency": 165,
+  "Fast_charge": 800,
+  "Range": 520,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Mokka-e",
+  "Efficiency": 178,
+  "Fast_charge": 420,
+  "Range": 260,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9.2,
+  "Price.USD": "$44,308.50"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQB 350 4MATIC",
+  "Efficiency": 196,
+  "Fast_charge": 490,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 61.7,
+  "Car_name": "MG MG4 Electric XPOWER",
+  "Efficiency": 193,
+  "Fast_charge": 560,
+  "Range": 320,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$51,219.10"
+ },
+ {
+  "Battery": 62,
+  "Car_name": "Smart #1 Brabus",
+  "Efficiency": 197,
+  "Fast_charge": 490,
+  "Range": 315,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$53,399.10"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Subaru Solterra AWD",
+  "Efficiency": 200,
+  "Fast_charge": 480,
+  "Range": 320,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$62,664.10"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS 450+",
+  "Efficiency": 171,
+  "Fast_charge": 950,
+  "Range": 635,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.1,
+  "Price.USD": "$119,410.59"
+ },
+ {
+  "Battery": 106.5,
+  "Car_name": "Fisker Ocean One",
+  "Efficiency": 201,
+  "Fast_charge": 630,
+  "Range": 530,
+  "Top_speed": 205,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$76,245.50"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Volvo XC40 Recharge Single Motor ER",
+  "Efficiency": 195,
+  "Fast_charge": 600,
+  "Range": 405,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$57,770.00"
+ },
+ {
+  "Battery": 94,
+  "Car_name": "Zeekr 001 Long Range RWD",
+  "Efficiency": 177,
+  "Fast_charge": 740,
+  "Range": 530,
+  "Top_speed": 200,
+  "acceleration..0.100.": 7.2,
+  "Price.USD": "$66,457.30"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq Coupe 85",
+  "Efficiency": 159,
+  "Fast_charge": 720,
+  "Range": 485,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$55,753.50"
+ },
+ {
+  "Battery": 81.2,
+  "Car_name": "BMW i5 M60 xDrive Sedan",
+  "Efficiency": 191,
+  "Fast_charge": 630,
+  "Range": 425,
+  "Top_speed": 230,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$108,455.00"
+ },
+ {
+  "Battery": 85,
+  "Car_name": "Audi e-tron GT quattro",
+  "Efficiency": 202,
+  "Fast_charge": 1030,
+  "Range": 420,
+  "Top_speed": 245,
+  "acceleration..0.100.": 4.1,
+  "Price.USD": "$115,594.50"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Kia EV6 Long Range AWD",
+  "Efficiency": 185,
+  "Fast_charge": 1050,
+  "Range": 400,
+  "Top_speed": 185,
+  "acceleration..0.100.": 5.2,
+  "Price.USD": "$61,018.20"
+ },
+ {
+  "Battery": 57.4,
+  "Car_name": "MG MG5 Electric Long Range",
+  "Efficiency": 171,
+  "Fast_charge": 330,
+  "Range": 335,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.7,
+  "Price.USD": "$41,954.10"
+ },
+ {
+  "Battery": 30,
+  "Car_name": "Mazda MX-30",
+  "Efficiency": 176,
+  "Fast_charge": 210,
+  "Range": 170,
+  "Top_speed": 140,
+  "acceleration..0.100.": 9.7,
+  "Price.USD": "$39,229.10"
+ },
+ {
+  "Battery": 94,
+  "Car_name": "Polestar 4 Long Range Single Motor",
+  "Efficiency": 190,
+  "Fast_charge": 740,
+  "Range": 495,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 84,
+  "Car_name": "Maxus MIFA 9",
+  "Efficiency": 230,
+  "Fast_charge": 330,
+  "Range": 365,
+  "Top_speed": 180,
+  "acceleration..0.100.": 9.2,
+  "Price.USD": "$75,199.10"
+ },
+ {
+  "Battery": 39.2,
+  "Car_name": "Hyundai Kona Electric 39 kWh",
+  "Efficiency": 160,
+  "Fast_charge": 210,
+  "Range": 245,
+  "Top_speed": 155,
+  "acceleration..0.100.": 9.9,
+  "Price.USD": "$39,676.00"
+ },
+ {
+  "Battery": 106.5,
+  "Car_name": "Fisker Ocean Ultra",
+  "Efficiency": 199,
+  "Fast_charge": 640,
+  "Range": 535,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.2,
+  "Price.USD": "$62,130.00"
+ },
+ {
+  "Battery": 52,
+  "Car_name": "Renault Zoe ZE50 R135",
+  "Efficiency": 168,
+  "Fast_charge": 230,
+  "Range": 310,
+  "Top_speed": 140,
+  "acceleration..0.100.": 9.5,
+  "Price.USD": "$41,245.60"
+ },
+ {
+  "Battery": 96,
+  "Car_name": "Kia EV9 99.8 kWh RWD",
+  "Efficiency": 213,
+  "Fast_charge": 780,
+  "Range": 450,
+  "Top_speed": 185,
+  "acceleration..0.100.": 9.4,
+  "Price.USD": "$79,014.10"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Lexus RZ 450e",
+  "Efficiency": 200,
+  "Fast_charge": 480,
+  "Range": 320,
+  "Top_speed": 160,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$74,120.00"
+ },
+ {
+  "Battery": 95,
+  "Car_name": "Tesla Model X Dual Motor",
+  "Efficiency": 200,
+  "Fast_charge": 660,
+  "Range": 475,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$110,057.30"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "Mercedes EQB 250+",
+  "Efficiency": 170,
+  "Fast_charge": 560,
+  "Range": 415,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.9,
+  "Price.USD": "$58,330.26"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Hyundai IONIQ 5 Long Range AWD",
+  "Efficiency": 192,
+  "Fast_charge": 1010,
+  "Range": 385,
+  "Top_speed": 185,
+  "acceleration..0.100.": 5.1,
+  "Price.USD": "$64,528.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Peugeot e-308",
+  "Efficiency": 169,
+  "Fast_charge": 450,
+  "Range": 300,
+  "Top_speed": 170,
+  "acceleration..0.100.": 9.8,
+  "Price.USD": "$48,793.85"
+ },
+ {
+  "Battery": 95,
+  "Car_name": "Tesla Model X Plaid",
+  "Efficiency": 209,
+  "Fast_charge": 630,
+  "Range": 455,
+  "Top_speed": 262,
+  "acceleration..0.100.": 2.6,
+  "Price.USD": "$126,407.30"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Volvo XC40 Recharge Twin Motor",
+  "Efficiency": 203,
+  "Fast_charge": 580,
+  "Range": 390,
+  "Top_speed": 180,
+  "acceleration..0.100.": 4.8,
+  "Price.USD": "$65,345.50"
+ },
+ {
+  "Battery": 54,
+  "Car_name": "Hyundai IONIQ 5 Standard Range 2WD",
+  "Efficiency": 183,
+  "Fast_charge": 720,
+  "Range": 295,
+  "Top_speed": 185,
+  "acceleration..0.100.": 8.5,
+  "Price.USD": "$47,851.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.5 Pro",
+  "Efficiency": 169,
+  "Fast_charge": 680,
+  "Range": 455,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$53,377.30"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQB 300 4MATIC",
+  "Efficiency": 196,
+  "Fast_charge": 490,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 106,
+  "Car_name": "Audi Q8 e-tron Sportback 55 quattro",
+  "Efficiency": 202,
+  "Fast_charge": 660,
+  "Range": 525,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$95,429.50"
+ },
+ {
+  "Battery": 64.7,
+  "Car_name": "BMW iX2 xDrive30",
+  "Efficiency": 170,
+  "Fast_charge": 550,
+  "Range": 380,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$61,585.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 e-tron 45",
+  "Efficiency": 183,
+  "Fast_charge": 630,
+  "Range": 420,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$57,715.50"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Zeekr X Privilege AWD",
+  "Efficiency": 183,
+  "Fast_charge": 520,
+  "Range": 350,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$55,012.30"
+ },
+ {
+  "Battery": 105.2,
+  "Car_name": "BMW iX M60",
+  "Efficiency": 217,
+  "Fast_charge": 650,
+  "Range": 485,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$148,349.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Fiat 600e",
+  "Efficiency": 167,
+  "Fast_charge": 490,
+  "Range": 305,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$39,774.10"
+ },
+ {
+  "Battery": 62,
+  "Car_name": "Smart #3",
+  "Efficiency": 175,
+  "Fast_charge": 550,
+  "Range": 355,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$47,404.10"
+ },
+ {
+  "Battery": 70,
+  "Car_name": "MG Marvel R",
+  "Efficiency": 192,
+  "Fast_charge": 400,
+  "Range": 365,
+  "Top_speed": 200,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$51,219.10"
+ },
+ {
+  "Battery": 59,
+  "Car_name": "Nissan Leaf e+",
+  "Efficiency": 174,
+  "Fast_charge": 240,
+  "Range": 340,
+  "Top_speed": 157,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$44,799.00"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Polestar 2 Long Range Dual Motor",
+  "Efficiency": 176,
+  "Fast_charge": 670,
+  "Range": 450,
+  "Top_speed": 205,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$64,064.75"
+ },
+ {
+  "Battery": 25,
+  "Car_name": "Dacia Spring Electric 65 Extreme",
+  "Efficiency": 156,
+  "Fast_charge": 170,
+  "Range": 160,
+  "Top_speed": 125,
+  "acceleration..0.100.": 13.7,
+  "Price.USD": "$26,759.50"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE 350+",
+  "Efficiency": 171,
+  "Fast_charge": 790,
+  "Range": 530,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.3 Pro S - 4 Seats",
+  "Efficiency": 169,
+  "Fast_charge": 680,
+  "Range": 455,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$51,878.55"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS SUV 580 4MATIC",
+  "Efficiency": 224,
+  "Fast_charge": 720,
+  "Range": 485,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.6,
+  "Price.USD": "$147,623.06"
+ },
+ {
+  "Battery": 96,
+  "Car_name": "Kia EV9 99.8 kWh AWD GT-Line",
+  "Efficiency": 231,
+  "Fast_charge": 720,
+  "Range": 415,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.3,
+  "Price.USD": "$89,794.20"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Renault Megane E-Tech EV60 130hp",
+  "Efficiency": 158,
+  "Fast_charge": 530,
+  "Range": 380,
+  "Top_speed": 150,
+  "acceleration..0.100.": 10.5,
+  "Price.USD": "$51,230.00"
+ },
+ {
+  "Battery": 58,
+  "Car_name": "Skoda Enyaq 60",
+  "Efficiency": 171,
+  "Fast_charge": 460,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.7,
+  "Price.USD": "$48,178.00"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-C4 X",
+  "Efficiency": 162,
+  "Fast_charge": 460,
+  "Range": 285,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9.7,
+  "Price.USD": "$40,918.60"
+ },
+ {
+  "Battery": 91,
+  "Car_name": "Ford Mustang Mach-E ER RWD",
+  "Efficiency": 190,
+  "Fast_charge": 420,
+  "Range": 480,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$63,765.00"
+ },
+ {
+  "Battery": 112,
+  "Car_name": "Lucid Air Grand Touring",
+  "Efficiency": 168,
+  "Fast_charge": 840,
+  "Range": 665,
+  "Top_speed": 270,
+  "acceleration..0.100.": 3,
+  "Price.USD": "$173,310.00"
+ },
+ {
+  "Battery": 66,
+  "Car_name": "Volvo XC40 Recharge Single Motor",
+  "Efficiency": 191,
+  "Fast_charge": 420,
+  "Range": 345,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$51,775.00"
+ },
+ {
+  "Battery": 67,
+  "Car_name": "Polestar 2 Standard Range Single Motor",
+  "Efficiency": 165,
+  "Fast_charge": 480,
+  "Range": 405,
+  "Top_speed": 205,
+  "acceleration..0.100.": 6.4,
+  "Price.USD": "$55,344.75"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Peugeot e-2008 54 kWh",
+  "Efficiency": 169,
+  "Fast_charge": 480,
+  "Range": 300,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9.1,
+  "Price.USD": "$43,654.50"
+ },
+ {
+  "Battery": 75.8,
+  "Car_name": "XPENG G9 RWD Standard Range",
+  "Efficiency": 190,
+  "Fast_charge": 840,
+  "Range": 400,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 45.4,
+  "Car_name": "ORA Funky Cat 48 kWh",
+  "Efficiency": 175,
+  "Fast_charge": 240,
+  "Range": 260,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.3,
+  "Price.USD": "$42,499.10"
+ },
+ {
+  "Battery": 76.6,
+  "Car_name": "Audi Q4 e-tron 50 quattro",
+  "Efficiency": 199,
+  "Fast_charge": 550,
+  "Range": 385,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 76.5,
+  "Car_name": "Hongqi E-HS9 84 kWh",
+  "Efficiency": 239,
+  "Fast_charge": 440,
+  "Range": 320,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.5,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 107,
+  "Car_name": "Polestar 3 Long Range Dual motor",
+  "Efficiency": 218,
+  "Fast_charge": 640,
+  "Range": 490,
+  "Top_speed": 210,
+  "acceleration..0.100.": 5,
+  "Price.USD": "$96,574.00"
+ },
+ {
+  "Battery": 70,
+  "Car_name": "MG Marvel R Performance",
+  "Efficiency": 200,
+  "Fast_charge": 380,
+  "Range": 350,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "$55,579.10"
+ },
+ {
+  "Battery": 49,
+  "Car_name": "MG ZS EV Standard Range",
+  "Efficiency": 185,
+  "Fast_charge": 250,
+  "Range": 265,
+  "Top_speed": 175,
+  "acceleration..0.100.": 8.6,
+  "Price.USD": "$37,049.10"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "CUPRA Tavascan VZ",
+  "Efficiency": 179,
+  "Fast_charge": 640,
+  "Range": 430,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Toyota bZ4X AWD",
+  "Efficiency": 203,
+  "Fast_charge": 470,
+  "Range": 315,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$62,555.10"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Audi Q8 e-tron 50 quattro",
+  "Efficiency": 209,
+  "Fast_charge": 660,
+  "Range": 425,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$81,096.00"
+ },
+ {
+  "Battery": 63,
+  "Car_name": "Nissan Ariya 63kWh",
+  "Efficiency": 188,
+  "Fast_charge": 450,
+  "Range": 335,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.5,
+  "Price.USD": "$51,764.10"
+ },
+ {
+  "Battery": 54,
+  "Car_name": "Kia EV6 Standard Range 2WD",
+  "Efficiency": 177,
+  "Fast_charge": 750,
+  "Range": 305,
+  "Top_speed": 185,
+  "acceleration..0.100.": 8.5,
+  "Price.USD": "$51,219.10"
+ },
+ {
+  "Battery": 118,
+  "Car_name": "Lucid Air Dream Edition P",
+  "Efficiency": 177,
+  "Fast_charge": 840,
+  "Range": 665,
+  "Top_speed": 270,
+  "acceleration..0.100.": 2.7,
+  "Price.USD": "$237,620.00"
+ },
+ {
+  "Battery": 107,
+  "Car_name": "Volvo EX90 Twin Motor",
+  "Efficiency": 230,
+  "Fast_charge": 610,
+  "Range": 465,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.9,
+  "Price.USD": "$115,049.50"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQA 250",
+  "Efficiency": 164,
+  "Fast_charge": 580,
+  "Range": 405,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.6,
+  "Price.USD": "$55,346.93"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "Mercedes EQV 300 Long",
+  "Efficiency": 290,
+  "Fast_charge": 310,
+  "Range": 310,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$78,072.34"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "NIO ET7 75 kWh",
+  "Efficiency": 176,
+  "Fast_charge": 540,
+  "Range": 400,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$89,271.00"
+ },
+ {
+  "Battery": 91,
+  "Car_name": "Ford Mustang Mach-E ER AWD",
+  "Efficiency": 204,
+  "Fast_charge": 390,
+  "Range": 445,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.8,
+  "Price.USD": "$71,831.00"
+ },
+ {
+  "Battery": 52,
+  "Car_name": "Volkswagen ID.4 Pure",
+  "Efficiency": 182,
+  "Fast_charge": 360,
+  "Range": 285,
+  "Top_speed": 160,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$43,965.15"
+ },
+ {
+  "Battery": 123,
+  "Car_name": "VinFast VF 9 Extended Range",
+  "Efficiency": 237,
+  "Fast_charge": 520,
+  "Range": 520,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.5,
+  "Price.USD": "$97,871.10"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "NIO ET5 100 kWh",
+  "Efficiency": 180,
+  "Fast_charge": 520,
+  "Range": 500,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$74,665.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq 85x",
+  "Efficiency": 175,
+  "Fast_charge": 660,
+  "Range": 440,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$55,753.50"
+ },
+ {
+  "Battery": 93.1,
+  "Car_name": "XPENG G9 RWD Long Range",
+  "Efficiency": 190,
+  "Fast_charge": 1020,
+  "Range": 490,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Volvo C40 Recharge Twin Motor",
+  "Efficiency": 198,
+  "Fast_charge": 600,
+  "Range": 400,
+  "Top_speed": 180,
+  "acceleration..0.100.": 4.7,
+  "Price.USD": "$66,926.00"
+ },
+ {
+  "Battery": 75,
+  "Car_name": "Fisker Ocean Sport",
+  "Efficiency": 197,
+  "Fast_charge": 480,
+  "Range": 380,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.4,
+  "Price.USD": "$45,300.40"
+ },
+ {
+  "Battery": 96,
+  "Car_name": "Mercedes EQE SUV 500 4MATIC",
+  "Efficiency": 211,
+  "Fast_charge": 630,
+  "Range": 455,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "$108,826.69"
+ },
+ {
+  "Battery": 49,
+  "Car_name": "Mini Cooper SE",
+  "Efficiency": 158,
+  "Fast_charge": 440,
+  "Range": 310,
+  "Top_speed": 170,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$40,221.00"
+ },
+ {
+  "Battery": 72.6,
+  "Car_name": "Ford Mustang Mach-E SR RWD",
+  "Efficiency": 191,
+  "Fast_charge": 460,
+  "Range": 380,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$60,822.00"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Volvo C40 Recharge Single Motor ER",
+  "Efficiency": 188,
+  "Fast_charge": 630,
+  "Range": 420,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$59,350.50"
+ },
+ {
+  "Battery": 84.7,
+  "Car_name": "Jaguar I-Pace EV400",
+  "Efficiency": 223,
+  "Fast_charge": 360,
+  "Range": 380,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.8,
+  "Price.USD": "$100,716.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq Coupe RS",
+  "Efficiency": 169,
+  "Fast_charge": 680,
+  "Range": 455,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$68,997.00"
+ },
+ {
+  "Battery": 82.7,
+  "Car_name": "XPENG P7 Wing Edition",
+  "Efficiency": 178,
+  "Fast_charge": 650,
+  "Range": 465,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 106.5,
+  "Car_name": "Fisker Ocean Extreme",
+  "Efficiency": 201,
+  "Fast_charge": 630,
+  "Range": 530,
+  "Top_speed": 205,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$76,245.50"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Mercedes EQE 300",
+  "Efficiency": 170,
+  "Fast_charge": 660,
+  "Range": 525,
+  "Top_speed": 210,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$73,233.83"
+ },
+ {
+  "Battery": 28.5,
+  "Car_name": "Honda e Advance",
+  "Efficiency": 168,
+  "Fast_charge": 180,
+  "Range": 170,
+  "Top_speed": 145,
+  "acceleration..0.100.": 8.3,
+  "Price.USD": "$43,491.00"
+ },
+ {
+  "Battery": 109,
+  "Car_name": "Lotus Eletre R",
+  "Efficiency": 240,
+  "Fast_charge": 950,
+  "Range": 455,
+  "Top_speed": 260,
+  "acceleration..0.100.": 2.9,
+  "Price.USD": "$164,579.10"
+ },
+ {
+  "Battery": 62,
+  "Car_name": "Smart #3 Brabus",
+  "Efficiency": 188,
+  "Fast_charge": 510,
+  "Range": 330,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$55,579.10"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Peugeot e-308 SW",
+  "Efficiency": 169,
+  "Fast_charge": 450,
+  "Range": 300,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$49,883.85"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Mercedes EQE SUV 350 4MATIC",
+  "Efficiency": 209,
+  "Fast_charge": 540,
+  "Range": 425,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS SUV 450+",
+  "Efficiency": 217,
+  "Fast_charge": 750,
+  "Range": 500,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$120,773.09"
+ },
+ {
+  "Battery": 44.9,
+  "Car_name": "BYD DOLPHIN 44.9 kWh Boost",
+  "Efficiency": 176,
+  "Fast_charge": 260,
+  "Range": 255,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8,
+  "Price.USD": "$35,686.60"
+ },
+ {
+  "Battery": 48.1,
+  "Car_name": "Opel Corsa Electric 51 kWh",
+  "Efficiency": 153,
+  "Fast_charge": 490,
+  "Range": 315,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.1,
+  "Price.USD": "$41,469.05"
+ },
+ {
+  "Battery": 56,
+  "Car_name": "SsangYong Korando e-Motion",
+  "Efficiency": 193,
+  "Fast_charge": 330,
+  "Range": 290,
+  "Top_speed": 156,
+  "acceleration..0.100.": 8.5,
+  "Price.USD": "$44,134.10"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.4 Pro 4MOTION",
+  "Efficiency": 181,
+  "Fast_charge": 630,
+  "Range": 425,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$53,431.80"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQA 350 4MATIC",
+  "Efficiency": 190,
+  "Fast_charge": 500,
+  "Range": 350,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 40,
+  "Car_name": "Renault Megane E-Tech EV40 130hp",
+  "Efficiency": 154,
+  "Fast_charge": 370,
+  "Range": 260,
+  "Top_speed": 150,
+  "acceleration..0.100.": 10,
+  "Price.USD": "$45,780.00"
+ },
+ {
+  "Battery": 47,
+  "Car_name": "Smart #1 Pro",
+  "Efficiency": 184,
+  "Fast_charge": 330,
+  "Range": 255,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$40,864.10"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Citroen e-C4 54 kWh",
+  "Efficiency": 154,
+  "Fast_charge": 470,
+  "Range": 330,
+  "Top_speed": 150,
+  "acceleration..0.100.": 10,
+  "Price.USD": "$45,278.60"
+ },
+ {
+  "Battery": 92,
+  "Car_name": "Lucid Air Touring",
+  "Efficiency": 159,
+  "Fast_charge": 970,
+  "Range": 580,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.2,
+  "Price.USD": "$140,610.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "CUPRA Tavascan Endurance",
+  "Efficiency": 171,
+  "Fast_charge": 670,
+  "Range": 450,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.8,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 107,
+  "Car_name": "Volvo EX90 Twin Motor Performance",
+  "Efficiency": 238,
+  "Fast_charge": 590,
+  "Range": 450,
+  "Top_speed": 180,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "$120,608.50"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-2008 50 kWh",
+  "Efficiency": 171,
+  "Fast_charge": 430,
+  "Range": 270,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.4 GTX",
+  "Efficiency": 183,
+  "Fast_charge": 630,
+  "Range": 420,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$58,047.95"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQA 350 4MATIC",
+  "Efficiency": 187,
+  "Fast_charge": 510,
+  "Range": 355,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$61,502.16"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq Coupe 85x",
+  "Efficiency": 164,
+  "Fast_charge": 700,
+  "Range": 470,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$58,206.00"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "Mercedes EQA 250+",
+  "Efficiency": 164,
+  "Fast_charge": 600,
+  "Range": 430,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.6,
+  "Price.USD": "$56,903.45"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Genesis GV60 Premium",
+  "Efficiency": 190,
+  "Fast_charge": 1020,
+  "Range": 390,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.8,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS 580 4MATIC",
+  "Efficiency": 184,
+  "Fast_charge": 880,
+  "Range": 590,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.3,
+  "Price.USD": "$154,458.45"
+ },
+ {
+  "Battery": 45,
+  "Car_name": "Renault Kangoo E-Tech Electric",
+  "Efficiency": 205,
+  "Fast_charge": 230,
+  "Range": 220,
+  "Top_speed": 132,
+  "acceleration..0.100.": 12.6,
+  "Price.USD": "$42,837.00"
+ },
+ {
+  "Battery": 48.1,
+  "Car_name": "Peugeot e-208 51 kWh",
+  "Efficiency": 155,
+  "Fast_charge": 480,
+  "Range": 310,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.2,
+  "Price.USD": "$40,084.75"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Aiways U5",
+  "Efficiency": 190,
+  "Fast_charge": 380,
+  "Range": 315,
+  "Top_speed": 150,
+  "acceleration..0.100.": 7.5,
+  "Price.USD": "$43,123.67"
+ },
+ {
+  "Battery": 48.4,
+  "Car_name": "Hyundai Kona Electric 48 kWh",
+  "Efficiency": 167,
+  "Fast_charge": 280,
+  "Range": 290,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.8,
+  "Price.USD": "$45,769.10"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 e-tron 55 quattro",
+  "Efficiency": 195,
+  "Fast_charge": 590,
+  "Range": 395,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$64,310.00"
+ },
+ {
+  "Battery": 93.1,
+  "Car_name": "XPENG G9 AWD Performance",
+  "Efficiency": 196,
+  "Fast_charge": 990,
+  "Range": 475,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 76.6,
+  "Car_name": "Audi Q4 Sportback e-tron 40",
+  "Efficiency": 180,
+  "Fast_charge": 660,
+  "Range": 425,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.5,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "NIO ET7 100 kWh",
+  "Efficiency": 178,
+  "Fast_charge": 530,
+  "Range": 505,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$99,081.00"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQA 300 4MATIC",
+  "Efficiency": 190,
+  "Fast_charge": 500,
+  "Range": 350,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 Sportback e-tron 45",
+  "Efficiency": 177,
+  "Fast_charge": 650,
+  "Range": 435,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "$59,895.50"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE SUV 500 4MATIC",
+  "Efficiency": 208,
+  "Fast_charge": 650,
+  "Range": 435,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Kia e-Soul 64 kWh",
+  "Efficiency": 173,
+  "Fast_charge": 350,
+  "Range": 370,
+  "Top_speed": 167,
+  "acceleration..0.100.": 7.9,
+  "Price.USD": "$51,175.50"
+ },
+ {
+  "Battery": 101.7,
+  "Car_name": "BMW i7 eDrive50",
+  "Efficiency": 196,
+  "Fast_charge": 780,
+  "Range": 520,
+  "Top_speed": 205,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$126,113.00"
+ },
+ {
+  "Battery": 106,
+  "Car_name": "Audi SQ8 e-tron",
+  "Efficiency": 233,
+  "Fast_charge": 570,
+  "Range": 455,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$104,422.00"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan GTS",
+  "Efficiency": 186,
+  "Fast_charge": 1110,
+  "Range": 450,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$152,497.54"
+ },
+ {
+  "Battery": 82.7,
+  "Car_name": "XPENG P7 RWD Long Range",
+  "Efficiency": 167,
+  "Fast_charge": 690,
+  "Range": 495,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6.7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Plus",
+  "Efficiency": 173,
+  "Fast_charge": 1190,
+  "Range": 485,
+  "Top_speed": 230,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$107,760.67"
+ },
+ {
+  "Battery": 101.7,
+  "Car_name": "BMW i7 M70 xDrive",
+  "Efficiency": 208,
+  "Fast_charge": 730,
+  "Range": 490,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$198,162.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Opel Astra Sports Tourer Electric",
+  "Efficiency": 169,
+  "Fast_charge": 480,
+  "Range": 300,
+  "Top_speed": 170,
+  "acceleration..0.100.": 9.3,
+  "Price.USD": "$47,404.10"
+ },
+ {
+  "Battery": 66,
+  "Car_name": "Volvo C40 Recharge Single Motor",
+  "Efficiency": 186,
+  "Fast_charge": 430,
+  "Range": 355,
+  "Top_speed": 180,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "$51,775.00"
+ },
+ {
+  "Battery": 92,
+  "Car_name": "Lucid Air Pure AWD",
+  "Efficiency": 156,
+  "Fast_charge": 990,
+  "Range": 590,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.2,
+  "Price.USD": "$118,810.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Volkswagen ID.5 GTX",
+  "Efficiency": 179,
+  "Fast_charge": 640,
+  "Range": 430,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$61,535.95"
+ },
+ {
+  "Battery": 83,
+  "Car_name": "Maserati GranTurismo Folgore",
+  "Efficiency": 195,
+  "Fast_charge": 990,
+  "Range": 425,
+  "Top_speed": 320,
+  "acceleration..0.100.": 2.7,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 64.7,
+  "Car_name": "Mini Countryman E",
+  "Efficiency": 170,
+  "Fast_charge": 550,
+  "Range": 380,
+  "Top_speed": 170,
+  "acceleration..0.100.": 8.6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 21.3,
+  "Car_name": "Fiat 500e Hatchback 24 kWh",
+  "Efficiency": 158,
+  "Fast_charge": 230,
+  "Range": 135,
+  "Top_speed": 135,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$33,779.10"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Corsa Electric 50 kWh",
+  "Efficiency": 157,
+  "Fast_charge": 470,
+  "Range": 295,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.7,
+  "Price.USD": "$37,768.50"
+ },
+ {
+  "Battery": 107,
+  "Car_name": "Polestar 3 Long Range Performance",
+  "Efficiency": 228,
+  "Fast_charge": 610,
+  "Range": 470,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.7,
+  "Price.USD": "$103,768.00"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-Berlingo M 50 kWh",
+  "Efficiency": 226,
+  "Fast_charge": 330,
+  "Range": 205,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$41,191.10"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "Mercedes eVito Tourer Long 90 kWh",
+  "Efficiency": 290,
+  "Fast_charge": 310,
+  "Range": 310,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$70,030.32"
+ },
+ {
+  "Battery": 87,
+  "Car_name": "Nissan Ariya e-4ORCE 87kWh - 225 kW",
+  "Efficiency": 215,
+  "Fast_charge": 480,
+  "Range": 405,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.7,
+  "Price.USD": "$67,569.10"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "NIO EL6 100 kWh",
+  "Efficiency": 205,
+  "Fast_charge": 460,
+  "Range": 440,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$81,205.00"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "Citroen e-C4 X 54 kWh",
+  "Efficiency": 154,
+  "Fast_charge": 470,
+  "Range": 330,
+  "Top_speed": 150,
+  "acceleration..0.100.": 10,
+  "Price.USD": "$45,278.60"
+ },
+ {
+  "Battery": 50.8,
+  "Car_name": "DS 3 E-Tense",
+  "Efficiency": 169,
+  "Fast_charge": 480,
+  "Range": 300,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$44,188.60"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS 450 4MATIC",
+  "Efficiency": 178,
+  "Fast_charge": 910,
+  "Range": 610,
+  "Top_speed": 210,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$123,561.31"
+ },
+ {
+  "Battery": 51,
+  "Car_name": "Seres 3",
+  "Efficiency": 196,
+  "Fast_charge": 240,
+  "Range": 260,
+  "Top_speed": 155,
+  "acceleration..0.100.": 8.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 46,
+  "Car_name": "MG MG5 Electric Standard Range",
+  "Efficiency": 174,
+  "Fast_charge": 320,
+  "Range": 265,
+  "Top_speed": 185,
+  "acceleration..0.100.": 7.7,
+  "Price.USD": "$38,684.10"
+ },
+ {
+  "Battery": 96,
+  "Car_name": "Mercedes EQE SUV 350+",
+  "Efficiency": 202,
+  "Fast_charge": 660,
+  "Range": 475,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.9,
+  "Price.USD": "$94,623.99"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Mercedes EQE 350 4MATIC",
+  "Efficiency": 176,
+  "Fast_charge": 640,
+  "Range": 505,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.3,
+  "Price.USD": "$80,822.41"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo S",
+  "Efficiency": 195,
+  "Fast_charge": 1060,
+  "Range": 430,
+  "Top_speed": 260,
+  "acceleration..0.100.": 2.8,
+  "Price.USD": "$215,536.60"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Rifter Long 50 kWh",
+  "Efficiency": 232,
+  "Fast_charge": 320,
+  "Range": 200,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$46,259.60"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "NIO EL7 100 kWh",
+  "Efficiency": 209,
+  "Fast_charge": 450,
+  "Range": 430,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$103,441.00"
+ },
+ {
+  "Battery": 91,
+  "Car_name": "Ford Mustang Mach-E GT",
+  "Efficiency": 214,
+  "Fast_charge": 380,
+  "Range": 425,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$84,257.00"
+ },
+ {
+  "Battery": 64.7,
+  "Car_name": "Mini Countryman SE ALL4",
+  "Efficiency": 175,
+  "Fast_charge": 530,
+  "Range": 370,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Zeekr X Long Range RWD",
+  "Efficiency": 178,
+  "Fast_charge": 540,
+  "Range": 360,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.6,
+  "Price.USD": "$50,107.30"
+ },
+ {
+  "Battery": 95,
+  "Car_name": "Maserati Grecale Folgore",
+  "Efficiency": 235,
+  "Fast_charge": 440,
+  "Range": 405,
+  "Top_speed": 220,
+  "acceleration..0.100.": 4.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 94,
+  "Car_name": "Zeekr 001 Privilege AWD",
+  "Efficiency": 188,
+  "Fast_charge": 700,
+  "Range": 500,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.8,
+  "Price.USD": "$75,177.30"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "NIO ET5 Touring 100 kWh",
+  "Efficiency": 186,
+  "Fast_charge": 500,
+  "Range": 485,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$74,665.00"
+ },
+ {
+  "Battery": 79,
+  "Car_name": "Polestar 2 Long Range Performance",
+  "Efficiency": 176,
+  "Fast_charge": 670,
+  "Range": 450,
+  "Top_speed": 205,
+  "acceleration..0.100.": 4.2,
+  "Price.USD": "$71,149.75"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQB 300 4MATIC",
+  "Efficiency": 193,
+  "Fast_charge": 500,
+  "Range": 345,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8,
+  "Price.USD": "$60,515.71"
+ },
+ {
+  "Battery": 101,
+  "Car_name": "Volvo EX90 Single Motor",
+  "Efficiency": 220,
+  "Fast_charge": 600,
+  "Range": 460,
+  "Top_speed": 180,
+  "acceleration..0.100.": 8.4,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 45,
+  "Car_name": "Nissan Townstar EV Passenger",
+  "Efficiency": 200,
+  "Fast_charge": 230,
+  "Range": 225,
+  "Top_speed": 132,
+  "acceleration..0.100.": 12.6,
+  "Price.USD": "$43,589.10"
+ },
+ {
+  "Battery": 59.3,
+  "Car_name": "ORA Funky Cat 63 kWh",
+  "Efficiency": 174,
+  "Fast_charge": 240,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.2,
+  "Price.USD": "$48,494.10"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Mercedes EQE 350",
+  "Efficiency": 173,
+  "Fast_charge": 650,
+  "Range": 515,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.4,
+  "Price.USD": "$77,384.55"
+ },
+ {
+  "Battery": 89,
+  "Car_name": "Audi Q8 e-tron Sportback 50 quattro",
+  "Efficiency": 200,
+  "Fast_charge": 690,
+  "Range": 445,
+  "Top_speed": 200,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$83,548.50"
+ },
+ {
+  "Battery": 37.3,
+  "Car_name": "Fiat 500e 3+1 42 kWh",
+  "Efficiency": 159,
+  "Fast_charge": 390,
+  "Range": 235,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$40,319.10"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 e-tron 45 quattro",
+  "Efficiency": 195,
+  "Fast_charge": 590,
+  "Range": 395,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$59,895.50"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "NIO ET5 75 kWh",
+  "Efficiency": 178,
+  "Fast_charge": 530,
+  "Range": 395,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$64,855.00"
+ },
+ {
+  "Battery": 37,
+  "Car_name": "Mini Cooper E",
+  "Efficiency": 157,
+  "Fast_charge": 360,
+  "Range": 235,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.3,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Genesis GV70 Electrified Sport",
+  "Efficiency": 211,
+  "Fast_charge": 860,
+  "Range": 350,
+  "Top_speed": 235,
+  "acceleration..0.100.": 4.2,
+  "Price.USD": "$73,357.00"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQB 350 4MATIC",
+  "Efficiency": 193,
+  "Fast_charge": 500,
+  "Range": 345,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "$63,434.73"
+ },
+ {
+  "Battery": 73,
+  "Car_name": "Peugeot e-3008 73 kWh Dual Motor",
+  "Efficiency": 190,
+  "Fast_charge": 440,
+  "Range": 385,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS AMG 53 4MATIC+",
+  "Efficiency": 203,
+  "Fast_charge": 800,
+  "Range": 535,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.4,
+  "Price.USD": "$168,959.81"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "NIO ET5 Touring 75 kWh",
+  "Efficiency": 183,
+  "Fast_charge": 520,
+  "Range": 385,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$64,855.00"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE SUV 350 4MATIC",
+  "Efficiency": 208,
+  "Fast_charge": 550,
+  "Range": 435,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$97,607.32"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 Sportback e-tron 55 quattro",
+  "Efficiency": 186,
+  "Fast_charge": 620,
+  "Range": 415,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$66,490.00"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Skoda Enyaq RS",
+  "Efficiency": 177,
+  "Fast_charge": 650,
+  "Range": 435,
+  "Top_speed": 180,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$66,544.50"
+ },
+ {
+  "Battery": 82.5,
+  "Car_name": "Genesis G80 Electrified Luxury",
+  "Efficiency": 188,
+  "Fast_charge": 880,
+  "Range": 440,
+  "Top_speed": 225,
+  "acceleration..0.100.": 4.9,
+  "Price.USD": "$75,428.00"
+ },
+ {
+  "Battery": 58,
+  "Car_name": "CUPRA Born 170 kW - 58 kWh",
+  "Efficiency": 168,
+  "Fast_charge": 460,
+  "Range": 345,
+  "Top_speed": 160,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$44,417.50"
+ },
+ {
+  "Battery": 71,
+  "Car_name": "Porsche Taycan",
+  "Efficiency": 169,
+  "Fast_charge": 1030,
+  "Range": 420,
+  "Top_speed": 230,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$101,521.51"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS SUV 500 4MATIC",
+  "Efficiency": 221,
+  "Fast_charge": 730,
+  "Range": 490,
+  "Top_speed": 210,
+  "acceleration..0.100.": 5.2,
+  "Price.USD": "$135,754.05"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-208 50 kWh",
+  "Efficiency": 160,
+  "Fast_charge": 460,
+  "Range": 290,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 27,
+  "Car_name": "e.Go e.wave X",
+  "Efficiency": 180,
+  "Fast_charge": "NA",
+  "Range": 150,
+  "Top_speed": 135,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$27,239.10"
+ },
+ {
+  "Battery": 45,
+  "Car_name": "Mercedes EQT 200 Standard",
+  "Efficiency": 200,
+  "Fast_charge": 230,
+  "Range": 225,
+  "Top_speed": 132,
+  "acceleration..0.100.": 12.6,
+  "Price.USD": "$53,895.05"
+ },
+ {
+  "Battery": 72.6,
+  "Car_name": "Ford Mustang Mach-E SR AWD",
+  "Efficiency": 207,
+  "Fast_charge": 430,
+  "Range": 350,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 64,
+  "Car_name": "Lexus UX 300e",
+  "Efficiency": 188,
+  "Fast_charge": 170,
+  "Range": 340,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.5,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS 500 4MATIC",
+  "Efficiency": 184,
+  "Fast_charge": 880,
+  "Range": 590,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.8,
+  "Price.USD": "$136,662.02"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan 4S Plus",
+  "Efficiency": 174,
+  "Fast_charge": 1180,
+  "Range": 480,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$130,888.29"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE 500 4MATIC",
+  "Efficiency": 179,
+  "Fast_charge": 750,
+  "Range": 505,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.7,
+  "Price.USD": "$96,154.35"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan 4 Cross Turismo",
+  "Efficiency": 190,
+  "Fast_charge": 1080,
+  "Range": 440,
+  "Top_speed": 220,
+  "acceleration..0.100.": 5.1,
+  "Price.USD": "$112,546.86"
+ },
+ {
+  "Battery": 81,
+  "Car_name": "Elaris BEO 86 kWh",
+  "Efficiency": 208,
+  "Fast_charge": 290,
+  "Range": 390,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8,
+  "Price.USD": "$57,868.10"
+ },
+ {
+  "Battery": 108.4,
+  "Car_name": "Mercedes EQS SUV 450 4MATIC",
+  "Efficiency": 221,
+  "Fast_charge": 730,
+  "Range": 490,
+  "Top_speed": 210,
+  "acceleration..0.100.": 6,
+  "Price.USD": "$124,923.81"
+ },
+ {
+  "Battery": 87,
+  "Car_name": "Nissan Ariya e-4ORCE 87kWh - 290 kW",
+  "Efficiency": 215,
+  "Fast_charge": 480,
+  "Range": 405,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.1,
+  "Price.USD": "$77,924.10"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Opel Vivaro-e Combi M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$62,066.78"
+ },
+ {
+  "Battery": 76.6,
+  "Car_name": "Audi Q4 Sportback e-tron 50 quattro",
+  "Efficiency": 192,
+  "Fast_charge": 570,
+  "Range": 400,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.2,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 59.3,
+  "Car_name": "ORA Funky Cat GT",
+  "Efficiency": 180,
+  "Fast_charge": 230,
+  "Range": 330,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.2,
+  "Price.USD": "$53,944.10"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE SUV 300",
+  "Efficiency": 201,
+  "Fast_charge": 570,
+  "Range": 450,
+  "Top_speed": 210,
+  "acceleration..0.100.": 7.6,
+  "Price.USD": "$90,992.11"
+ },
+ {
+  "Battery": 106,
+  "Car_name": "Audi SQ8 e-tron Sportback",
+  "Efficiency": 221,
+  "Fast_charge": 610,
+  "Range": 480,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$106,874.50"
+ },
+ {
+  "Battery": 77,
+  "Car_name": "Audi Q4 Sportback e-tron 45 quattro",
+  "Efficiency": 186,
+  "Fast_charge": 620,
+  "Range": 415,
+  "Top_speed": 180,
+  "acceleration..0.100.": 6.6,
+  "Price.USD": "$62,075.50"
+ },
+ {
+  "Battery": 82.7,
+  "Car_name": "XPENG P7 AWD Performance",
+  "Efficiency": 180,
+  "Fast_charge": 640,
+  "Range": 460,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 62,
+  "Car_name": "Smart #1 Pulse",
+  "Efficiency": 194,
+  "Fast_charge": 490,
+  "Range": 320,
+  "Top_speed": 180,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$50,674.10"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Toyota Proace City Verso Electric L1 50 kWh",
+  "Efficiency": 220,
+  "Fast_charge": 330,
+  "Range": 210,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.2,
+  "Price.USD": "$41,202.00"
+ },
+ {
+  "Battery": 58,
+  "Car_name": "Skoda Enyaq Coupe 60",
+  "Efficiency": 163,
+  "Fast_charge": 480,
+  "Range": 355,
+  "Top_speed": 160,
+  "acceleration..0.100.": 8.8,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 37.3,
+  "Car_name": "Fiat 500e Cabrio 42 kWh",
+  "Efficiency": 162,
+  "Fast_charge": 380,
+  "Range": 230,
+  "Top_speed": 150,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$41,409.10"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE SUV AMG 43 4MATIC",
+  "Efficiency": 218,
+  "Fast_charge": 620,
+  "Range": 415,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.3,
+  "Price.USD": "$136,162.80"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Toyota PROACE Verso M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$70,337.70"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Toyota Proace City Verso Electric L2 50 kWh",
+  "Efficiency": 226,
+  "Fast_charge": 330,
+  "Range": 205,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.2,
+  "Price.USD": "$43,763.50"
+ },
+ {
+  "Battery": 71,
+  "Car_name": "Porsche Taycan 4S",
+  "Efficiency": 171,
+  "Fast_charge": 1020,
+  "Range": 415,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$124,869.31"
+ },
+ {
+  "Battery": 87.7,
+  "Car_name": "VinFast VF 8 Eco Extended Range",
+  "Efficiency": 206,
+  "Fast_charge": 550,
+  "Range": 425,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.9,
+  "Price.USD": "$57,759.10"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE AMG 43 4MATIC",
+  "Efficiency": 195,
+  "Fast_charge": 690,
+  "Range": 465,
+  "Top_speed": 210,
+  "acceleration..0.100.": 4.2,
+  "Price.USD": "$114,184.04"
+ },
+ {
+  "Battery": 66.5,
+  "Car_name": "Mercedes EQA 300 4MATIC",
+  "Efficiency": 187,
+  "Fast_charge": 510,
+  "Range": 355,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7.7,
+  "Price.USD": "$58,336.80"
+ },
+ {
+  "Battery": 21.3,
+  "Car_name": "Fiat 500e 3+1 24 kWh",
+  "Efficiency": 158,
+  "Fast_charge": 230,
+  "Range": 135,
+  "Top_speed": 135,
+  "acceleration..0.100.": 9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-SpaceTourer M 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$58,467.60"
+ },
+ {
+  "Battery": 37.8,
+  "Car_name": "Abarth 500e Hatchback",
+  "Efficiency": 168,
+  "Fast_charge": 370,
+  "Range": 225,
+  "Top_speed": 155,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$41,409.10"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE SUV AMG 53 4MATIC+",
+  "Efficiency": 221,
+  "Fast_charge": 610,
+  "Range": 410,
+  "Top_speed": 240,
+  "acceleration..0.100.": 3.5,
+  "Price.USD": "$151,987.42"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Opel Zafira-e Life L 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$76,381.75"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Aiways U6",
+  "Efficiency": 171,
+  "Fast_charge": 430,
+  "Range": 350,
+  "Top_speed": 160,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$51,870.92"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Toyota PROACE Verso L 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$71,269.65"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "NIO EL6 75 kWh",
+  "Efficiency": 201,
+  "Fast_charge": 470,
+  "Range": 350,
+  "Top_speed": 200,
+  "acceleration..0.100.": 4.5,
+  "Price.USD": "$71,395.00"
+ },
+ {
+  "Battery": 39.2,
+  "Car_name": "Kia e-Soul 39.2 kWh",
+  "Efficiency": 170,
+  "Fast_charge": 200,
+  "Range": 230,
+  "Top_speed": 157,
+  "acceleration..0.100.": 9.9,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Combo-e Life 50 kWh",
+  "Efficiency": 226,
+  "Fast_charge": 330,
+  "Range": 205,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$46,924.50"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Citroen e-Jumpy Combi M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$63,154.60"
+ },
+ {
+  "Battery": 90.6,
+  "Car_name": "Mercedes EQE AMG 53 4MATIC+",
+  "Efficiency": 195,
+  "Fast_charge": 690,
+  "Range": 465,
+  "Top_speed": 220,
+  "acceleration..0.100.": 3.5,
+  "Price.USD": "$120,669.54"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "Mercedes eVito Tourer Extra-Long 90 kWh",
+  "Efficiency": 295,
+  "Fast_charge": 310,
+  "Range": 305,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$71,002.60"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo",
+  "Efficiency": 188,
+  "Fast_charge": 1090,
+  "Range": 445,
+  "Top_speed": 260,
+  "acceleration..0.100.": 3.2,
+  "Price.USD": "$179,217.80"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Peugeot e-Expert Combi Standard 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 14.3,
+  "Price.USD": "$63,154.60"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Rifter Standard 50 kWh",
+  "Efficiency": 226,
+  "Fast_charge": 330,
+  "Range": 205,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$44,951.60"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Peugeot e-Traveller Long 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 14.3,
+  "Price.USD": "$65,868.70"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Genesis GV60 Sport",
+  "Efficiency": 195,
+  "Fast_charge": 990,
+  "Range": 380,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$68,888.00"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan 4S Cross Turismo",
+  "Efficiency": 190,
+  "Fast_charge": 1080,
+  "Range": 440,
+  "Top_speed": 240,
+  "acceleration..0.100.": 4.1,
+  "Price.USD": "$130,706.26"
+ },
+ {
+  "Battery": 87.7,
+  "Car_name": "VinFast VF 8 Plus Extended Range",
+  "Efficiency": 206,
+  "Fast_charge": 550,
+  "Range": 425,
+  "Top_speed": 200,
+  "acceleration..0.100.": 5.5,
+  "Price.USD": "$64,190.10"
+ },
+ {
+  "Battery": 71,
+  "Car_name": "Porsche Taycan Sport Turismo",
+  "Efficiency": 187,
+  "Fast_charge": 930,
+  "Range": 380,
+  "Top_speed": 230,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$102,559.19"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Mercedes EQV 250 Long",
+  "Efficiency": 286,
+  "Fast_charge": 200,
+  "Range": 210,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$74,181.04"
+ },
+ {
+  "Battery": 90,
+  "Car_name": "Mercedes EQV 300 Extra-Long",
+  "Efficiency": 290,
+  "Fast_charge": 310,
+  "Range": 310,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$79,045.71"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Mercedes eVito Tourer Long 60 kWh",
+  "Efficiency": 286,
+  "Fast_charge": 310,
+  "Range": 210,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$66,139.02"
+ },
+ {
+  "Battery": 37.8,
+  "Car_name": "Abarth 500e Convertible",
+  "Efficiency": 168,
+  "Fast_charge": 370,
+  "Range": 225,
+  "Top_speed": 155,
+  "acceleration..0.100.": 7,
+  "Price.USD": "$44,679.10"
+ },
+ {
+  "Battery": 74,
+  "Car_name": "Genesis GV60 Sport Plus",
+  "Efficiency": 203,
+  "Fast_charge": 950,
+  "Range": 365,
+  "Top_speed": 235,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$79,679.00"
+ },
+ {
+  "Battery": 28.9,
+  "Car_name": "Mini Cooper SE Convertible",
+  "Efficiency": 175,
+  "Fast_charge": 230,
+  "Range": 165,
+  "Top_speed": 150,
+  "acceleration..0.100.": 8.2,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Citroen e-SpaceTourer M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$65,007.60"
+ },
+ {
+  "Battery": 70.5,
+  "Car_name": "NIO EL7 75 kWh",
+  "Efficiency": 207,
+  "Fast_charge": 460,
+  "Range": 340,
+  "Top_speed": 200,
+  "acceleration..0.100.": 3.9,
+  "Price.USD": "$93,631.00"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Peugeot e-Traveller Standard 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 14.3,
+  "Price.USD": "$65,007.60"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Traveller Standard 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$58,467.60"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan GTS Sport Turismo",
+  "Efficiency": 197,
+  "Fast_charge": 1050,
+  "Range": 425,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.7,
+  "Price.USD": "$153,535.22"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo Cross Turismo",
+  "Efficiency": 197,
+  "Fast_charge": 1050,
+  "Range": 425,
+  "Top_speed": 250,
+  "acceleration..0.100.": 3.3,
+  "Price.USD": "$180,774.32"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Peugeot e-Expert Combi Long 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 14.3,
+  "Price.USD": "$64,015.70"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Fiat E-Ulysse L3 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$68,659.10"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-SpaceTourer XL 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$59,328.70"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo S Cross Turismo",
+  "Efficiency": 204,
+  "Fast_charge": 1010,
+  "Range": 410,
+  "Top_speed": 250,
+  "acceleration..0.100.": 2.9,
+  "Price.USD": "$217,093.12"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-Berlingo XL 50 kWh",
+  "Efficiency": 226,
+  "Fast_charge": 330,
+  "Range": 205,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$47,567.60"
+ },
+ {
+  "Battery": 21.3,
+  "Car_name": "Fiat 500e Cabrio 24 kWh",
+  "Efficiency": 158,
+  "Fast_charge": 230,
+  "Range": 135,
+  "Top_speed": 135,
+  "acceleration..0.100.": 9,
+  "Price.USD": "$38,684.10"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Plus Sport Turismo",
+  "Efficiency": 188,
+  "Fast_charge": 1090,
+  "Range": 445,
+  "Top_speed": 230,
+  "acceleration..0.100.": 5.4,
+  "Price.USD": "$108,798.35"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Toyota PROACE Shuttle M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Toyota PROACE Shuttle L 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo S Sport Turismo",
+  "Efficiency": 212,
+  "Fast_charge": 970,
+  "Range": 395,
+  "Top_speed": 260,
+  "acceleration..0.100.": 2.8,
+  "Price.USD": "$216,574.28"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Citroen e-SpaceTourer XL 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$65,868.70"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-Jumpy Combi M 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$56,614.60"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Zafira-e Life M 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$68,942.50"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Toyota PROACE Shuttle L 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Citroen e-Jumpy Combi XL 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$64,015.70"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan 4S Plus Sport Turismo",
+  "Efficiency": 195,
+  "Fast_charge": 1060,
+  "Range": 430,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$130,888.29"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Combo-e Life XL 50 kWh",
+  "Efficiency": 232,
+  "Fast_charge": 320,
+  "Range": 200,
+  "Top_speed": 135,
+  "acceleration..0.100.": 11.7,
+  "Price.USD": "$48,777.50"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Toyota PROACE Shuttle M 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "NA"
+ },
+ {
+  "Battery": 71,
+  "Car_name": "Porsche Taycan 4S Sport Turismo",
+  "Efficiency": 192,
+  "Fast_charge": 910,
+  "Range": 370,
+  "Top_speed": 250,
+  "acceleration..0.100.": 4,
+  "Price.USD": "$124,869.31"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Expert Combi Standard 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$56,614.60"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Mercedes eVito Tourer Extra-Long 60 kWh",
+  "Efficiency": 293,
+  "Fast_charge": 300,
+  "Range": 205,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$67,112.39"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Traveller Long 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$59,328.70"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Fiat E-Ulysse L2 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$67,569.10"
+ },
+ {
+  "Battery": 83.7,
+  "Car_name": "Porsche Taycan Turbo Sport Turismo",
+  "Efficiency": 207,
+  "Fast_charge": 1000,
+  "Range": 405,
+  "Top_speed": 260,
+  "acceleration..0.100.": 3.2,
+  "Price.USD": "$180,255.48"
+ },
+ {
+  "Battery": 60,
+  "Car_name": "Mercedes EQV 250 Extra-Long",
+  "Efficiency": 286,
+  "Fast_charge": 200,
+  "Range": 210,
+  "Top_speed": 160,
+  "acceleration..0.100.": 12,
+  "Price.USD": "$75,154.41"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Opel Vivaro-e Combi L 75 kWh",
+  "Efficiency": 262,
+  "Fast_charge": 280,
+  "Range": 260,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$62,974.75"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Vivaro-e Combi M 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$55,581.28"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Zafira-e Life L 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$69,841.75"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Peugeot e-Expert Combi Long 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.1,
+  "Price.USD": "$57,475.70"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Citroen e-Jumpy Combi XL 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$57,475.70"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Fiat E-Ulysse L2 50 kWh",
+  "Efficiency": 250,
+  "Fast_charge": 290,
+  "Range": 185,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$61,029.10"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Opel Vivaro-e Combi L 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$56,489.25"
+ },
+ {
+  "Battery": 68,
+  "Car_name": "Opel Zafira-e Life M 75 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 265,
+  "Top_speed": 130,
+  "acceleration..0.100.": 13.3,
+  "Price.USD": "$75,482.50"
+ },
+ {
+  "Battery": 46.3,
+  "Car_name": "Fiat E-Ulysse L3 50 kWh",
+  "Efficiency": 257,
+  "Fast_charge": 290,
+  "Range": 180,
+  "Top_speed": 130,
+  "acceleration..0.100.": 12.1,
+  "Price.USD": "$62,119.10"
+ }
+]

@@ -1,0 +1,58 @@
+/* faq-button.css */
+
+.faq-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Garamond', serif;
+}
+
+.faq-button {
+    background: none;
+    border: none;
+    color: #333;
+    cursor: pointer;
+    font-size: 24px; /* Increased font size */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: color 0.3s;
+    font-family: inherit; /* Inherit the font from the container */
+}
+
+.faq-button:hover {
+    color: #007bff;
+}
+
+.faq-icon {
+    font-size: 36px; /* Increased icon size */
+    margin-bottom: 10px;
+}
+
+.faq-line {
+    width: 80px; /* Wider line */
+    height: 3px; /* Thicker line */
+    background-color: #333;
+    margin-top: 8px;
+    transition: transform 0.3s;
+}
+
+.faq-button:hover .faq-line {
+    transform: scaleX(1.5);
+    background-color: #007bff;
+}
+
+.animation-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: semi-transparent background */
+    z-index: 1000;
+}
