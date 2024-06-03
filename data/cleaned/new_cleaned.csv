@@ -1,0 +1,206 @@
+CarName,fueltype,price,engine
+alfa,gasoline,13495.0,0.13
+alfa,gasoline,16500.0,0.13
+alfa,gasoline,16500.0,0.152
+audi,gasoline,13950.0,0.109
+audi ,gasoline,17450.0,0.136
+audi fox,gasoline,15250.0,0.136
+audi ,gasoline,17710.0,0.136
+audi ,gasoline,18920.0,0.136
+audi ,gasoline,23875.0,0.131
+audi ,gasoline,17859.17,0.131
+bmw ,gasoline,16430.0,0.108
+bmw ,gasoline,16925.0,0.108
+bmw ,gasoline,20970.0,0.164
+bmw ,gasoline,21105.0,0.164
+bmw ,gasoline,24565.0,0.164
+bmw ,gasoline,30760.0,0.209
+bmw ,gasoline,41315.0,0.209
+bmw ,gasoline,36880.0,0.209
+chevrolet impala,gasoline,5151.0,0.061
+chevrolet ,gasoline,6295.0,0.09
+chevrolet,gasoline,6575.0,0.09
+dodge ,gasoline,5572.0,0.09
+dodge ,gasoline,6377.0,0.09
+dodge ,gasoline,7957.0,0.098
+dodge ,gasoline,6229.0,0.09
+dodge,gasoline,6692.0,0.09
+dodge ,gasoline,7609.0,0.09
+dodge,gasoline,8558.0,0.098
+dodge ,gasoline,8921.0,0.122
+dodge,gasoline,12964.0,0.156
+honda ,gasoline,6479.0,0.092
+honda ,gasoline,6855.0,0.092
+honda ,gasoline,5399.0,0.079
+honda ,gasoline,6529.0,0.092
+honda  ,gasoline,7129.0,0.092
+honda ,gasoline,7295.0,0.092
+honda ,gasoline,7295.0,0.092
+honda ,gasoline,7895.0,0.11
+honda,gasoline,9095.0,0.11
+honda ,gasoline,8845.0,0.11
+honda ,gasoline,10295.0,0.11
+honda ,gasoline,12945.0,0.11
+honda civic (auto),gasoline,10345.0,0.11
+isuzu MU-X,gasoline,6785.0,0.111
+isuzu ,gasoline,8916.5,0.09
+isuzu,gasoline,8916.5,0.09
+isuzu ,gasoline,11048.0,0.119
+jaguar ,gasoline,32250.0,0.258
+jaguar ,gasoline,35550.0,0.258
+jaguar ,gasoline,36000.0,0.326
+maxda ,gasoline,5195.0,0.091
+maxda ,gasoline,6095.0,0.091
+mazda ,gasoline,6795.0,0.091
+mazda,gasoline,6695.0,0.091
+mazda ,gasoline,7395.0,0.091
+mazda ,gasoline,10945.0,0.07
+mazda ,gasoline,11845.0,0.07
+mazda ,gasoline,13645.0,0.07
+mazda ,gasoline,15645.0,0.08
+mazda ,gasoline,8845.0,0.122
+mazda ,gasoline,8495.0,0.122
+mazda ,gasoline,10595.0,0.122
+mazda ,gasoline,10245.0,0.122
+mazda ,diesel,10795.0,0.122
+mazda ,gasoline,11245.0,0.122
+mazda ,gasoline,18280.0,0.14
+mazda ,diesel,18344.0,0.134
+buick ,diesel,25552.0,0.183
+buick ,diesel,28248.0,0.183
+buick ,diesel,28176.0,0.183
+buick ,diesel,31600.0,0.183
+buick ,gasoline,34184.0,0.234
+buick ,gasoline,35056.0,0.234
+buick ,gasoline,40960.0,0.308
+buick,gasoline,45400.0,0.304
+mercury ,gasoline,16503.0,0.14
+mitsubishi ,gasoline,5389.0,0.092
+mitsubishi ,gasoline,6189.0,0.092
+mitsubishi ,gasoline,6669.0,0.092
+mitsubishi ,gasoline,7689.0,0.098
+mitsubishi ,gasoline,9959.0,0.11
+mitsubishi ,gasoline,8499.0,0.122
+mitsubishi ,gasoline,12629.0,0.156
+mitsubishi ,gasoline,14869.0,0.156
+mitsubishi ,gasoline,14489.0,0.156
+mitsubishi ,gasoline,6989.0,0.122
+mitsubishi ,gasoline,8189.0,0.122
+mitsubishi ,gasoline,9279.0,0.11
+mitsubishi ,gasoline,9279.0,0.11
+Nissan ,gasoline,5499.0,0.097
+nissan,diesel,7099.0,0.103
+nissan ,gasoline,6649.0,0.097
+nissan ,gasoline,6849.0,0.097
+nissan ,gasoline,7349.0,0.097
+nissan ,gasoline,7299.0,0.097
+nissan ,gasoline,7799.0,0.097
+nissan ,gasoline,7499.0,0.097
+nissan ,gasoline,7999.0,0.097
+nissan ,gasoline,8249.0,0.097
+nissan ,gasoline,8949.0,0.12
+nissan ,gasoline,9549.0,0.12
+nissan ,gasoline,13499.0,0.181
+nissan ,gasoline,14399.0,0.181
+nissan ,gasoline,13499.0,0.181
+nissan ,gasoline,17199.0,0.181
+nissan ,gasoline,19699.0,0.181
+nissan ,gasoline,18399.0,0.181
+peugeot ,gasoline,11900.0,0.12
+peugeot ,diesel,13200.0,0.152
+peugeot ,gasoline,12440.0,0.12
+peugeot ,diesel,13860.0,0.152
+peugeot ,gasoline,15580.0,0.12
+peugeot ,diesel,16900.0,0.152
+peugeot ,gasoline,16695.0,0.12
+peugeot ,diesel,17075.0,0.152
+peugeot ,gasoline,16630.0,0.12
+peugeot ,diesel,17950.0,0.152
+peugeot ,gasoline,18150.0,0.134
+plymouth ,gasoline,5572.0,0.09
+plymouth ,gasoline,7957.0,0.098
+plymouth ,gasoline,6229.0,0.09
+plymouth ,gasoline,6692.0,0.09
+plymouth fury gran sedan,gasoline,7609.0,0.098
+plymouth ,gasoline,8921.0,0.122
+plymouth ,gasoline,12764.0,0.156
+porsche ,gasoline,22018.0,0.151
+porcshce ,gasoline,32528.0,0.194
+porsche ,gasoline,34028.0,0.194
+porsche ,gasoline,37028.0,0.194
+porsche ,gasoline,31400.5,0.203
+renault ,gasoline,9295.0,0.132
+renault,gasoline,9895.0,0.132
+saab ,gasoline,11850.0,0.121
+saab ,gasoline,12170.0,0.121
+saab ,gasoline,15040.0,0.121
+saab ,gasoline,15510.0,0.121
+saab ,gasoline,18150.0,0.121
+saab ,gasoline,18620.0,0.121
+subaru,gasoline,5118.0,0.097
+subaru ,gasoline,7053.0,0.108
+subaru ,gasoline,7603.0,0.108
+subaru,gasoline,7126.0,0.108
+subaru ,gasoline,7775.0,0.108
+subaru ,gasoline,9960.0,0.108
+subaru ,gasoline,9233.0,0.108
+subaru ,gasoline,11259.0,0.108
+subaru ,gasoline,7463.0,0.108
+subaru ,gasoline,10198.0,0.108
+subaru ,gasoline,8013.0,0.108
+subaru ,gasoline,11694.0,0.108
+toyota ,gasoline,5348.0,0.092
+toyota ,gasoline,6338.0,0.092
+toyota ,gasoline,6488.0,0.092
+toyota ,gasoline,6918.0,0.092
+toyota ,gasoline,7898.0,0.092
+toyota ,gasoline,8778.0,0.092
+toyota ,gasoline,6938.0,0.098
+toyota  ,gasoline,7198.0,0.098
+toyota ,diesel,7898.0,0.11
+toyota ,diesel,7788.0,0.11
+toyota ,gasoline,7738.0,0.098
+toyota ,gasoline,8358.0,0.098
+toyota ,gasoline,9258.0,0.098
+toyota ,gasoline,8058.0,0.098
+toyota ,gasoline,8238.0,0.098
+toyota ,gasoline,9298.0,0.098
+toyota ,gasoline,9538.0,0.098
+toyota ,gasoline,8449.0,0.146
+toyota,gasoline,9639.0,0.146
+toyota ,gasoline,9989.0,0.146
+toyota ,gasoline,11199.0,0.146
+toyota ,gasoline,11549.0,0.146
+toyota ,gasoline,17669.0,0.146
+toyota ,gasoline,8948.0,0.122
+toyota ,diesel,10698.0,0.11
+toyota ,gasoline,9988.0,0.122
+toyota ,gasoline,10898.0,0.122
+toyota ,gasoline,11248.0,0.122
+toyota ,gasoline,16558.0,0.171
+toyota ,gasoline,15998.0,0.171
+toyota ,gasoline,15690.0,0.171
+toyota ,gasoline,15750.0,0.161
+vokswagen ,diesel,7775.0,0.097
+volkswagen ,gasoline,7975.0,0.109
+volkswagen ,diesel,7995.0,0.097
+volkswagen ,gasoline,8195.0,0.109
+volkswagen ,gasoline,8495.0,0.109
+volkswagen ,diesel,9495.0,0.097
+volkswagen ,gasoline,9995.0,0.109
+vw ,gasoline,11595.0,0.109
+vw ,gasoline,9980.0,0.109
+volkswagen ,gasoline,13295.0,0.136
+volkswagen ,diesel,13845.0,0.097
+volkswagen ,gasoline,12290.0,0.109
+volvo ,gasoline,12940.0,0.141
+volvo 144ea,gasoline,13415.0,0.141
+volvo ,gasoline,15985.0,0.141
+volvo ,gasoline,16515.0,0.141
+volvo ,gasoline,18420.0,0.13
+volvo ,gasoline,18950.0,0.13
+volvo ,gasoline,16845.0,0.141
+volvo ,gasoline,19045.0,0.141
+volvo ,gasoline,21485.0,0.173
+volvo ,diesel,22470.0,0.145
+volvo ,gasoline,22625.0,0.141
