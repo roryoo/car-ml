@@ -1,11 +1,11 @@
 import React from 'react';
-import "../styles/HowItWorks.css";
-        
+import "../styles/HowItWorks.css";;
+
 function HowItWorks() {
   return (
     <div className="container">
       <div className="header">
-      <div class="container">
+      <div className="container">
   <h2 className="title">How It Works</h2>
 </div>
 
@@ -16,7 +16,7 @@ function HowItWorks() {
       </div>
       <div className="card">
         <h3>2. Analyze Data</h3>
-        <p>Click 'Predict' to let our advanced machine learning algorithms analyze your data and calculate the estimated market price</p>
+        <p>Click &apos;Predict&apos; to let our advanced machine learning algorithms analyze your data and calculate the estimated market price</p>
       </div>
       <div className="card">
         <h3>3. View Prediction</h3>
@@ -24,11 +24,6 @@ function HowItWorks() {
       </div>
 
     </div>
-    
-
-     
-
-        
   );
 }
 
