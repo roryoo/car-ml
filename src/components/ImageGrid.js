@@ -1,5 +1,7 @@
+import React from 'react';
 import Masonry from 'react-masonry-css';
 import "../styles/ImageGrid.css"; 
+
 const imageData = [
   { src: 'https://cdn.pixabay.com/photo/2015/05/28/23/12/auto-788747_1280.jpg', label: 'Vintage ' },
   { src: 'https://cdn.pixabay.com/photo/2022/08/18/08/07/car-7394195_1280.jpg', label: 'Electric ' },

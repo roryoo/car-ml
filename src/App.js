@@ -10,7 +10,7 @@ import InputFeaturesPage from './pages/InputFeaturesPage';
 import Register from "./pages/register";  
 import LoginPage from "./pages/Login";
 import GetStarted from './pages/getStarted';
-import  History  from '../src/components/History';
+import  UserHistory from '../src/components/UserHistory';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { PrimeReactProvider, PrimeReactContext } from 'primereact/api';
 import { ImportContacts } from '@mui/icons-material';
@@ -34,7 +34,7 @@ function App() {
           <Route path="/register" element={<Register />} /> 
           <Route path="/InputFeaturesPage" element={<InputFeaturesPage />} /> 
           <Route path="/login" element={<LoginPage/>} /> 
-          <Route path="/history" element={<History/>} /> 
+          <Route path="/history" element={<UserHistory/>} /> 
 
 
 
